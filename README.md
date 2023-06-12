@@ -15,4 +15,4 @@ Turma do 2°SESC-Informatica
 **GitHub**
 <hr>
 
-<img src="1930.jpg">
+
