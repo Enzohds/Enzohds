@@ -7,20 +7,8 @@
 <hr>
 <hr>
 
-Aula de informatica - produçao do README
+Aula de informatica 
 
-Turma do 2°SESC-Informatica
+Turma do 3°SESC-Informatica
 
 <hr>
-**GitHub**
-<hr>
-<br>
-1. Aula1
-0. Aula2
-1. Aula3
-_GitHyb_
-
-.[] opção 1
-.[] opção 2
-.[] opção 3
-
